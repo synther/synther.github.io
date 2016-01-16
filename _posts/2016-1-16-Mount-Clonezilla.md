@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Restore and mount Clonezilla *.gz files (Ubuntu 14.04)
+title: Restore And Mount Clonezilla *.gz Files (on Ubuntu 14.04)
 ---
 
 ### I Use NTFS
