@@ -18,8 +18,6 @@ cat sda1.ntfs-ptcl-img.gz.a* | gzip -d -c \
 | sudo partclone.ntfs -r -s - -W -O restored.img
 ```
 
-todo: explain every option
-
 Mount this image easily.
 
 ```
